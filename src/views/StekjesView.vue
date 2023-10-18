@@ -2,7 +2,5 @@
 </script>
 
 <template>
-    <main>
-
-    </main>
+    <h1>Stekjes</h1>
 </template>

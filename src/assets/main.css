@@ -1,3 +1,10 @@
+:root{
+  --background: #f7f7f7;
+  --main-accent-color: #4E7141;
+  --sec-accent-color: #F26F21;
+  --main-text: #525252;
+}
+
 body{
-  background-color: aquamarine;
+  background-color: var(--background);
 }

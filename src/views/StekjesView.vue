@@ -10,4 +10,7 @@
           nieuwe plantje? Bekijk hieronder ons aanbod.
         </p>
     </section>
+
+
 </template>
+

@@ -2,8 +2,20 @@
 Onderstaande outline ga je gedurende deze taak in jouw eigen GitHub omgeving uitwerken. 
 De instructie vind je in: [docs/INSTRUCTIONS.md](https://github.com/fdnd-task/choices-choices-the-tech-stack/blob/main/docs/INSTRUCTIONS.md)
 
-# Plantswap in Vue.js
+# Plantswap in Vue 🍃
 <!-- Geef je project een titel en schrijf in één zin wat het is -->
+Het doel van deze opdracht is om te leren wat de verschillen en overeenkomsten zijn tussen tech-stacks.
+
+## De pagina's die ik ga recreeren 👇
+### Homepagina
+![image](https://github.com/YoussraElmortai/vue-plantswap/assets/112857270/4e59bde6-a131-4f86-ad89-ade05bfd6eb1)
+
+### stekjes
+![image](https://github.com/YoussraElmortai/vue-plantswap/assets/112857270/f01b54d2-6bdc-407a-a731-f3447d6055dd)
+
+### Workshops
+![image](https://github.com/YoussraElmortai/vue-plantswap/assets/112857270/eef55234-37a8-4e97-9239-3e95be11fd8b)
+
 
 ## Inhoudsopgave
 

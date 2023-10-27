@@ -42,4 +42,7 @@
 
 
 <style>
+section{
+  margin: 1rem;
+}
 </style>

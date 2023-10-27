@@ -10,12 +10,15 @@
         </p>
       </section>
 
-      <h1>{{ entry.name }}</h1>
-      <p>{{ entry.description }}</p>
-
 </template>
 
-<script>
+<style>
+section{
+  margin: 1rem;
+}
+</style>
+
+<!-- <script>
 import getContentfulEntry from './db.js';
 
 export default {
@@ -28,4 +31,4 @@ export default {
     this.entry = await getContentfulEntry();
   }
 };
-</script>
+</script> -->

@@ -18,17 +18,17 @@ section{
 }
 </style>
 
-<!-- <script>
-import getContentfulEntry from './db.js';
+<script>
+// import getContentfulEntry from '../db.js';
 
-export default {
-  data() {
-    return {
-      entry: null
-    };
-  },
-  async created() {
-    this.entry = await getContentfulEntry();
-  }
-};
-</script> -->
+// export default {
+//   data() {
+//     return {
+//       entry: null
+//     };
+//   },
+//   async created() {
+//     this.entry = await getContentfulEntry();
+//   }
+// };
+</script>

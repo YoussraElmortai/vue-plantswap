@@ -2,26 +2,6 @@
 //   // api keys
 // };
 
-// const db = contentful.initializeApp(config);
-// export default db;
+https://graphql.contentful.com/content/v1/spaces/{YOUR_SPACE_ID}/explore?access_token={YOUR_ACCESS_TOKEN}
 
-// contentfulData.js
-
-// const contentful = require("contentful");
-
-// const client = contentful.createClient({
-//   space: "fqaoncc3hxft",
-//   environment: "master",
-//   accessToken: "HndwrgC3YextF_59XSBr3gWhZWi8YsCrMfKdN4CaL24",
-// });
-
-// const getContentfulEntry = async () => {
-//   try {
-//     const entry = await client.getEntry("6HbI1gwrOQNrpiSSJirEuK");
-//     return entry;
-//   } catch (error) {
-//     console.error(error);
-//   }
-// };
-
-// module.exports = getContentfulEntry;
+//  

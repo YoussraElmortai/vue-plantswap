@@ -8,7 +8,7 @@
     "preview": "vite preview"
   },
   "dependencies": {
-    "contentful": "^10.6.3",
+    "contentful": "^10.6.5",
     "vue": "^3.3.4",
     "vue-router": "^4.2.4"
   },

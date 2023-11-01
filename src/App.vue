@@ -4,7 +4,6 @@ import { RouterLink, RouterView } from 'vue-router'
 
 <template>
   <header>
-	<img src="plantswaplogo.png" alt="plantswap">
       <nav>
         <RouterLink class="link" to="/">HOME</RouterLink>
          <RouterLink class="link" to="/stekjes">STEKJES</RouterLink>
